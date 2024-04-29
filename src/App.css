@@ -1,0 +1,21 @@
+.wrapper ,
+.charts-wrapper{
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ width: 100vw;
+ height: 90vh;
+} 
+
+.charts-wrapper{
+ width: 92%;
+ justify-content: space-evenly;
+ border-radius: 0.5rem;
+ padding: 2rem;
+ box-shadow: var(--shadow);
+ margin: 2rem;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
