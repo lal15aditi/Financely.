@@ -6,13 +6,13 @@ import { getAuth, GoogleAuthProvider } from "firebase/auth";
 import { getFirestore, doc, setDoc } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBd_sH_ieS8-D8kAPKt9KN0Ff_ouDknIWk",
-  authDomain: "financely-pft.firebaseapp.com",
-  projectId: "financely-pft",
-  storageBucket: "financely-pft.appspot.com",
-  messagingSenderId: "26803030005",
-  appId: "1:26803030005:web:f184f47e268a2b3f6c42bc",
-  measurementId: "G-44NG90T0LF"
+  apiKey: "AIzaSyAdO6MPQoWId66i7v6n6LNYtKAy4H4d7dg",
+  authDomain: "financely-f79b5.firebaseapp.com",
+  projectId: "financely-f79b5",
+  storageBucket: "financely-f79b5.appspot.com",
+  messagingSenderId: "1062220935204",
+  appId: "1:1062220935204:web:82c5c3f12f28a45a1ee8b1",
+  measurementId: "G-JENK26QMFY"
 };
 
 
